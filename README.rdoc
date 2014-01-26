@@ -5,7 +5,7 @@
 
 - clone this repo
 - cd in project root dir
-- bundle update
+- bundle install 
 - rake db:migrate
 - rake db:seed
 - start rails server
